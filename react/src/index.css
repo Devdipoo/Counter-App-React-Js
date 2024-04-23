@@ -1,0 +1,18 @@
+h1{
+  font-size: 50px;
+  font-style: cursive;
+  text-align: center;
+}
+.counter-button{
+  margin: 5px ;
+  cursor: pointer;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  color: white;
+  background-color: rebeccapurple;
+}
+.counter-display{
+  text-align: center;
+  font-size: 50px;
+}
